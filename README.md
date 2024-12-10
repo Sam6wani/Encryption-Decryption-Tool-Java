@@ -11,7 +11,6 @@ Structured the project with a clear directory for the "Encryption Algorithm," in
 #### The project demonstrates how Java can effectively convert plaintext into ciphertext and back using a symmetric private key, showcasing practical implementation of encryption/decryption processes in a real-world scenario.
 
 
-![Screenshot (13)](https://github.com/user-attachments/assets/2ac14431-35d6-43d0-ab6e-cd6634cfeec9)
 
 
 ## Prerequisites:
